@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1605F25A236B4A780026FBAA /* twitter_ios_starter in Resources */ = {isa = PBXBuildFile; fileRef = 1605F259236B4A770026FBAA /* twitter_ios_starter */; };
 		16A2A90D2369051B00D3C5FB /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16A2A90C2369051B00D3C5FB /* LoginViewController.swift */; };
 		16E66FF6236A416A0049CD1F /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E66FF5236A416A0049CD1F /* HomeTableViewController.swift */; };
 		16E66FF8236B334B0049CD1F /* TweetCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E66FF7236B334A0049CD1F /* TweetCellTableViewCell.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1605F259236B4A770026FBAA /* twitter_ios_starter */ = {isa = PBXFileReference; lastKnownFileType = folder; name = twitter_ios_starter; sourceTree = "<group>"; };
 		16A2A90C2369051B00D3C5FB /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		16E66FF5236A416A0049CD1F /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		16E66FF7236B334A0049CD1F /* TweetCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetCellTableViewCell.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 			children = (
 				6EBCF52421DF07FC00451C03 /* Twitter */,
 				6EBCF52321DF07FC00451C03 /* Products */,
+				1605F259236B4A770026FBAA /* twitter_ios_starter */,
 				6BFB9ED923EC02A96AB79DEE /* Pods */,
 				BE4E6AE53EB27114CB452298 /* Frameworks */,
 			);
@@ -158,6 +161,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1605F25A236B4A780026FBAA /* twitter_ios_starter in Resources */,
 				6EBCF54E21E71F9400451C03 /* Launch Screen.storyboard in Resources */,
 				37D29B8621F90E3400984A88 /* Assets.xcassets in Resources */,
 				6EBCF52B21DF07FC00451C03 /* Main.storyboard in Resources */,
