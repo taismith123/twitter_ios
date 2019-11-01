@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Twitter iOS App*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Twitter iOS App*** is a basic twitter app to read your tweets.
 
 Time spent: **20** hours spent in total
 
