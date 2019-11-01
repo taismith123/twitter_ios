@@ -1,6 +1,6 @@
 # Project 3 - *Twitter iOS App*
 
-**Twitter iOS App*** is a basic twitter app to read your tweets.
+**Twitter iOS App** is a basic twitter app to read your tweets.
 
 Time spent: **20** hours spent in total
 
