@@ -1,4 +1,4 @@
-# ##Twitter_iOS - Part II##
+# Twitter_iOS - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
